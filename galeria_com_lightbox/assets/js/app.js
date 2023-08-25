@@ -1,4 +1,5 @@
 // .gallery
+// .gallery_item
 // .gallery_image
 // data-src
 // .lightbox
